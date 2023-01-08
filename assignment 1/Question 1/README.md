@@ -1,4 +1,4 @@
-#Pseudocode
+#pseudocode
 Start
 Print "enter speed in miles per hour"
 Read input -> s
